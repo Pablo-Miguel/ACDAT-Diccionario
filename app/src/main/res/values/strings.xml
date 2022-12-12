@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ACDAT-Diccionario</string>
+    <string name="btnInsertar">Insertar</string>
+    <string name="btnModificar">Modificar</string>
+    <string name="id_diccionario">ID:</string>
+    <string name="id">Introduzca id</string>
+    <string name="pal_expr_esp">Palabra/Expresión (Esp):</string>
+    <string name="pal_expr">Introduzca palabra o expresión</string>
+    <string name="pal_expr_ing">Palabra/Expresión (Ing):</string>
+    <string name="tipo_diccionario">Tipo diccionario:</string>
+    <string name="fecha_intro">Fecha intro:</string>
+    <string name="fecha_intro_txt">Introduzca fecha</string>
+    <string name="fecha_ult">Fecha última:</string>
+    <string name="cont_aciertos">Contador aciertos:</string>
+    <string name="cont_aciertos_txt">Introduzca aciertos</string>
+    <string name="btnContinuar">Continuar</string>
+    <string name="buscar">Buscar</string>
+    <string name="busqueda">Introduzca palabra o expresion</string>
+    <string name="criterios">Criterios</string>
+    <string name="orden_alf">Orden Alfabético</string>
+    <string name="numero_acierto">Numero aciertos</string>
+    <string name="ingles">Inglés</string>
+    <string name="espanol">Español</string>
+    <string name="palabra">Palabra</string>
+    <string name="expresion">Expresion</string>
+    <string name="listado">Listado</string>
+    <string name="voz">Voz</string>
+    <string name="palexpr">Palabra/Expresión (Esp, Ing)</string>
+    <string name="consultas">Consultas</string>
+    <string name="btnTest">Test</string>
+    <string name="contTest">Test: 1</string>
+    <string name="opcion_correcta">Elija opción:</string>
+</resources>
